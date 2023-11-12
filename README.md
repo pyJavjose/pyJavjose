@@ -1,5 +1,5 @@
  Hi, I’m @pyJavjose
- Real name is Jose Franco, this reop is just for my projects and basically where I will be pushing my code for future projects and websites 
+ Real name is Jose Franco, this repo is just for my projects and basically where I will be pushing my code for future projects and websites 
  feel free to message me anything, I would really appreciate it, any sort of career help is greatly appreciated, any tips for internships whether it be software engineering or machine learning, I am up for any sort of help :) THANK YOU!! 
 
 
